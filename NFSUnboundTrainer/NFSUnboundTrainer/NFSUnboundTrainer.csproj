@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net7.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="MahApps.Metro" Version="3.0.0-alpha0476"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Reference Include="Memory">
+            <HintPath>Memory.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+
+</Project>

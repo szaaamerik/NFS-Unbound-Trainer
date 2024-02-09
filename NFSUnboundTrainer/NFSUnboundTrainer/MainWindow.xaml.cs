@@ -60,7 +60,7 @@ public sealed partial class MainWindow : INotifyPropertyChanged
 
     private void Github_OnMouseDown(object sender, MouseButtonEventArgs e)
     {
-        const string targetUrl = "https://github.com/szaaamerik";
+        const string targetUrl = "https://github.com/szaaamerik/NFS-Unbound-Trainer";
         var processStartInfo = new ProcessStartInfo
         {
             UseShellExecute = true,

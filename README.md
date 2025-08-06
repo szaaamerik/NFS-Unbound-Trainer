@@ -1,10 +1,11 @@
 # NFS Unbound Trainer
 
+> [!WARNING]
+> This software is out of date. Keep your expectations low.
+
 ## Overview
 
-Simple trainer made in like 3 days because of boredom.
-
-Enjoy I guess?
+Basic & free Need For Speed Unbound trainer.
 
 ## Features
 
